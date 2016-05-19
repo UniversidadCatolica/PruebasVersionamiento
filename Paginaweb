@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8" />
+    <title>Mi Nueva Web</title>
+    
+  </head>
+  <body>
+    <!-- <p>BIENVENIDOS!</p> -->
+	<h1> EMPEZANDO A PROGRAMAR </h1>
+    <p>Hasta ahora esto esta muy facil.</p>
+
+<button type="button"
+onclick="document.getElementById('demo').innerHTML = Date()">PRESIONAME.</button>
+<p id="demo"></p>
+
+
+<h2 style="color:red;"> VErsionamiento </h2>
+<h3 style="color:#9932cc;"> 1qa </h3>
+
+
+  </body>
+</html>
